@@ -7,3 +7,5 @@ files = os.listdir()  # get all the files in the directory
 
 for file in files:
     print(file)
+
+os.system("pause")
